@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="catalogador.pantallaPresentacion" name="pantallaPresentacion1">
+    </Component>
+    <Component class="catalogador.pantallaSeleccionImagen" name="pantallaSeleccionImagen">
+    </Component>
+    <Component class="catalogador.pantallaInicio" name="pantallaInicio1">
+    </Component>
+    <Component class="catalogador.botonesPrincipales" name="botonesPrincipales1">
+    </Component>
+    <Component class="catalogador.pantallaSeleccion" name="pantallaSeleccion1">
+    </Component>
+    <Component class="catalogador.pantallaSeleccionA" name="pantallaSeleccionA1">
+    </Component>
+    <Component class="catalogador.pantallaSeleccionB" name="pantallaSeleccionB1">
+    </Component>
+    <Component class="catalogador.pantallaDescripcion" name="pantallaDescripcion1">
+    </Component>
+    <Component class="catalogador.pantallaDescripcion2" name="pantallaDescripcion21">
+    </Component>
+    <Component class="catalogador.pantallaDescripcion3" name="pantallaDescripcion31">
+    </Component>
+    <Component class="catalogador.pantallaVenta" name="pantallaVenta1">
+    </Component>
+    <Component class="catalogador.pantallaBuscador" name="pantallaBuscador1">
+    </Component>
+    <Component class="catalogador.pantallaComparador" name="pantallaComparador1">
+    </Component>
+    <Component class="catalogador.pantallaComparador" name="pantallaComparador2">
+    </Component>
+    <Component class="catalogador.pantallaComparador" name="pantallaComparador3">
+    </Component>
+    <Component class="catalogador.pantallaComparador" name="pantallaComparador4">
+    </Component>
+    <Component class="catalogador.BotonInicio" name="botonInicio1">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="cc" green="cc" red="cc" type="rgb"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="2"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="0"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,1,-62,0,0,2,-68"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout"/>
+</Form>
