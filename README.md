@@ -7,16 +7,16 @@ También, si se utiliza el modo MySQL, se ha añadido la posibilidad de insertar
 
 Por defecto, los datos de conexión son: localhost:3306 y "root" como username y password. Se pueden modificar en el código o escribir los que correspondan en un archivo de texto con el nombre "servidorSQL.txt", en el mismo directorio que el programa y con este formato:
 
-hostname
-puerto
-database
-user
-password
+hostname  
+puerto  
+database  
+user  
+password  
 
 Por ejemplo:
 
-localhost
-3306
-catalogador
-root
-root
+localhost  
+3306  
+catalogador  
+root  
+root  
