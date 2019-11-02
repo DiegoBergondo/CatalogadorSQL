@@ -8,7 +8,7 @@ package catalogador;
 
 /**
  * Clase de la primera extensión de pantalla del selector de tipo.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class pantallaSeleccionA extends pantallaSeleccion {
     

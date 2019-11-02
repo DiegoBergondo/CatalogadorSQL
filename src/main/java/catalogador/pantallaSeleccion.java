@@ -10,7 +10,7 @@ import BibliotecaRIGU.JSimpleDialog;
 
 /**
  *
- * @author murphy
+ * @author DiegoBergondo
  */
 public class pantallaSeleccion extends JSimpleDialog {
     

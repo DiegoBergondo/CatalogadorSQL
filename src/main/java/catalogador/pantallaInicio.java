@@ -10,7 +10,7 @@ import BibliotecaRIGU.JSimpleDialog;
 
 /**
  * Clase de la pantalla de inicio.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class pantallaInicio extends JSimpleDialog {
     

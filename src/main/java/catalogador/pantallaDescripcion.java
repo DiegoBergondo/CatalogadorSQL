@@ -13,7 +13,7 @@ import javax.swing.LayoutStyle;
 
 /**
  * Clase de la pantalla principal de datos del artículo.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class pantallaDescripcion extends JSimpleDialog {
     

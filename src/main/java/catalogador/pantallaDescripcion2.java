@@ -10,7 +10,7 @@ import BibliotecaRIGU.JSimpleDialog;
 
 /**
  * Clase de la segunda pantalla de datos del artículo.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class pantallaDescripcion2 extends JSimpleDialog {
     

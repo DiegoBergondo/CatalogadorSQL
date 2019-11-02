@@ -9,7 +9,7 @@ package catalogador;
 import BibliotecaRIGU.JSimpleDialog;
 /**
  *
- * @author murphy
+ * @author DiegoBergondo
  */
 public class pantallaPresentacion extends JSimpleDialog {
     

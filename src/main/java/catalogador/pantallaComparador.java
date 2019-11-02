@@ -11,7 +11,7 @@ import java.awt.Image;
 
 /**
  * Clase del comparador.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class pantallaComparador extends JSimpleDialog {
     

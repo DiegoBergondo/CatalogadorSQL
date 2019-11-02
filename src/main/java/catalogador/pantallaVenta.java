@@ -10,7 +10,7 @@ import BibliotecaRIGU.JSimpleDialog;
 
 /**
  * Clase de la pantalla de datos de venta.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class pantallaVenta extends JSimpleDialog {
     

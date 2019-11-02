@@ -9,7 +9,7 @@ import BibliotecaRIGU.JSimpleDialog;
 
 /**
  *
- * @author murphy
+ * @author DiegoBergondo
  */
 public class BotonInicio extends JSimpleDialog {
     

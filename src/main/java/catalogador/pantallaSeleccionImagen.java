@@ -21,7 +21,7 @@ import javax.swing.JFileChooser;
 
 /**
  * Clase de la pantalla del selector de imagen.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class pantallaSeleccionImagen extends JSimpleDialog { 
     

@@ -21,7 +21,7 @@ import javax.imageio.ImageIO;
 
 /**
  * Clase que representa a un artículo.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class DatosArticulo {
     

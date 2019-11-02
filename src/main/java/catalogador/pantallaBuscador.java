@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  * Clase de la pantalla del buscador
- * @author murphy
+ * @author DiegoBergondo
  */
 public class pantallaBuscador extends JSimpleDialog {
     

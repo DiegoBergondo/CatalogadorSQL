@@ -11,7 +11,7 @@ import java.awt.Image;
 
 /**
  * Clase de la GUI de los artículos que se comparan.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class pantallaComparado extends JSimpleDialog {
     

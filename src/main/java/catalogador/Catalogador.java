@@ -38,7 +38,7 @@ import javax.swing.ListSelectionModel;
 
 /**
  *
- * @author murphy
+ * @author DiegoBergondo
  */
 public class Catalogador extends javax.swing.JFrame implements ActionListener, ChangeListener, TreeSelectionListener, ListSelectionListener {
 

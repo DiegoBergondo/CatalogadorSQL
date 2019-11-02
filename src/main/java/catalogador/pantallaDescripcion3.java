@@ -10,7 +10,7 @@ import BibliotecaRIGU.JSimpleDialog;
 
 /**
  * Clase de la última GUI de datos del artículo.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class pantallaDescripcion3 extends JSimpleDialog {
     

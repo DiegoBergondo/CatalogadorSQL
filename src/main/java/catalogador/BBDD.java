@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  * Clase que gestiona la base de datos.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class BBDD {
     

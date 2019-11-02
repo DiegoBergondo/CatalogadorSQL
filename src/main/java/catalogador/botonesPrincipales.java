@@ -10,7 +10,7 @@ import BibliotecaRIGU.JSimpleDialog;
 
 /**
  * Clase que gestiona los botones Aceptar y Cancelar.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class botonesPrincipales extends JSimpleDialog {
     
