@@ -308,6 +308,7 @@ public class Catalogador extends javax.swing.JFrame implements ActionListener, C
     /**
      * Crea todo el árbol principal y las GUIs que lleva en su interior.
      * @param seleccion String con el tipo seleccionado.
+     * @param fuente String que indica la fuente de donde se obtienen los datos.
      */
     private void getArbol(String fuente, String seleccion) {
         JSDSeleccion = (JSimpleDialog) JDialogFactory.createDialog(JExtensibleDialog.cont_type.SIMPLE, null);

@@ -202,9 +202,9 @@ public class pantallaVenta extends JSimpleDialog {
         gridBagConstraints = new java.awt.GridBagConstraints();
         gridBagConstraints.gridx = 0;
         gridBagConstraints.gridy = 0;
-        gridBagConstraints.ipadx = -2;
+        gridBagConstraints.gridwidth = java.awt.GridBagConstraints.RELATIVE;
+        gridBagConstraints.gridheight = java.awt.GridBagConstraints.REMAINDER;
         gridBagConstraints.ipady = 200;
-        gridBagConstraints.anchor = java.awt.GridBagConstraints.NORTHWEST;
         add(jPanel1, gridBagConstraints);
 
         jPanel4.setLayout(new java.awt.GridBagLayout());
