@@ -20,3 +20,13 @@ localhost
 catalogador  
 root  
 root  
+
+![1](https://imgur.com/Mj5y6KO.png)
+
+![2](https://imgur.com/XLWO8Vc.png)
+
+![3](https://imgur.com/rLYzTZa.png)
+
+![4](https://imgur.com/VJCj0qE.png)
+
+![5](https://imgur.com/JujRJ2B.png)
