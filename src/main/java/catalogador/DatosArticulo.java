@@ -52,7 +52,7 @@ public class DatosArticulo {
 
     /**
      * Devuelve la imagen del artículo.
-     * @return
+     * @return Image
      */
     public Image getImagen(){
         return this.imagen;
