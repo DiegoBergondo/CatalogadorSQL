@@ -42,7 +42,7 @@ import javax.swing.ListSelectionModel;
  */
 public class Catalogador extends javax.swing.JFrame implements ActionListener, ChangeListener, TreeSelectionListener, ListSelectionListener {
 
-    private JSimpleDialog JSDSeleccion, JSDSeleccion2, JSDDatosArticulo, JSDDatosArticulo2, JSDDatosCV, JSDBuscador, JSDComparador, JSDComparados;
+    private JSimpleDialog JSDSeleccion, JSDDatosArticulo, JSDDatosArticulo2, JSDDatosCV, JSDBuscador, JSDComparador, JSDComparados;
     private JTabDialog JTDDatosArticulo, JTDDatosArticulo2, JTDComparador;
     private JTreeViewDialog JTVarbolPrincipal = (JTreeViewDialog) JDialogFactory.createDialog(JExtensibleDialog.cont_type.TREE, "Catalogador");
     private boolean comparador = false, esSQL = false;
