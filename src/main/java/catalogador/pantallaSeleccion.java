@@ -59,7 +59,7 @@ public class pantallaSeleccion extends JSimpleDialog {
         gridBagConstraints.gridx = 0;
         gridBagConstraints.gridy = 0;
         gridBagConstraints.anchor = java.awt.GridBagConstraints.NORTHWEST;
-        gridBagConstraints.insets = new java.awt.Insets(6, 6, 0, 6);
+        gridBagConstraints.insets = new java.awt.Insets(43, 0, 0, 0);
         add(jPanel1, gridBagConstraints);
 
         jPanel3.setBackground(new java.awt.Color(204, 204, 204));
@@ -80,7 +80,7 @@ public class pantallaSeleccion extends JSimpleDialog {
         gridBagConstraints.gridx = 0;
         gridBagConstraints.gridy = 1;
         gridBagConstraints.anchor = java.awt.GridBagConstraints.NORTHWEST;
-        gridBagConstraints.insets = new java.awt.Insets(6, 6, 189, 6);
+        gridBagConstraints.insets = new java.awt.Insets(6, 0, 115, 0);
         add(jPanel3, gridBagConstraints);
     }// </editor-fold>//GEN-END:initComponents
 

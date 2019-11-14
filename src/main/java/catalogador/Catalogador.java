@@ -313,6 +313,7 @@ public class Catalogador extends javax.swing.JFrame implements ActionListener, C
     private void getArbol(String fuente, String seleccion) {
         JSDSeleccion = (JSimpleDialog) JDialogFactory.createDialog(JExtensibleDialog.cont_type.SIMPLE, null);
         JSDSeleccion.addExtensibleChild(pantallaSeleccionA1, "columna");
+        JSDSeleccion.setLayout(new java.awt.GridBagLayout());
         pantallaSeleccionA1.addChangeListener(this);
         pantallaSeleccionB1.addChangeListener(this);
         pantallaDescripcion1.setContainerName("Datos articulo");
@@ -335,6 +336,7 @@ public class Catalogador extends javax.swing.JFrame implements ActionListener, C
         JSDDatosArticulo = (JSimpleDialog) JDialogFactory.createDialog(JExtensibleDialog.cont_type.SIMPLE, null); 
         JSDDatosArticulo.addExtensibleChild(JTDDatosArticulo, "fila");
         JTDDatosArticulo2 = (JTabDialog) JDialogFactory.createDialog(JExtensibleDialog.cont_type.TAB, null);
+        JTDDatosArticulo2.setLayout(new java.awt.GridBagLayout());
         JTDDatosArticulo2.addExtensibleChildrenList(LPantallaDescripcion3, "Panel datos CV");
         JSDDatosArticulo2 = (JSimpleDialog) JDialogFactory.createDialog(JExtensibleDialog.cont_type.SIMPLE, null); 
         JSDDatosArticulo2.addExtensibleChild(JTDDatosArticulo2, "fila");
@@ -568,6 +570,7 @@ public class Catalogador extends javax.swing.JFrame implements ActionListener, C
         if(e.getSource().equals(pantallaSeleccionA1.getIsEstadisticas())){
             if(pantallaSeleccionA1.getEstadisticas()){
                 JSDSeleccion.modificar(pantallaSeleccionB1, "columna", 0);
+                JSDSeleccion.setLayout(new java.awt.GridBagLayout());
                 pantallaSeleccionB1.setIsEstadisticas();
                 pantallaSeleccionB1.setTotal(this.baseDatos.getTotales(tipo));
                 pantallaSeleccionB1.setTotalVentas(this.baseDatos.getEnVenta(tipo));
@@ -578,6 +581,7 @@ public class Catalogador extends javax.swing.JFrame implements ActionListener, C
         else if(e.getSource().equals(pantallaSeleccionB1.getIsEstadisticas())){
             if(!pantallaSeleccionB1.getEstadisticas()){
                 JSDSeleccion.modificar(pantallaSeleccionA1, "columna", 0);
+                JSDSeleccion.setLayout(new java.awt.GridBagLayout());
                 pantallaSeleccionA1.setNotEstadisticas();
             }
         }        
