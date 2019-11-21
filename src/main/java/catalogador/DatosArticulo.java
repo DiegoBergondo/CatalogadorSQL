@@ -36,7 +36,7 @@ public class DatosArticulo {
     
      /**
      * Devuelve el ID del artículo (utilizado con la BBDD en SQL).
-     * @return
+     * @return id
      */
     public int getId() {
         return id;
